@@ -1,6 +1,6 @@
 # dissertation
 
-Project Name - Beyond the Sticker Price: A Machine Learning Model for Fair market Value of Used Cars Prices in the United Kingdom<br>
+Project Name - Used Car Price Prediction<br>
 
 To develop a machine learning model that accurately predicts the price of used cars based on their features. The model aims to assist buyers and sellers in making informed decisions about car pricing.<br>
 
